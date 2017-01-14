@@ -1,0 +1,5 @@
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_41\project_euler_41\bin\Debug\project_euler_41.exe.config
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_41\project_euler_41\bin\Debug\project_euler_41.exe
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_41\project_euler_41\bin\Debug\project_euler_41.pdb
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_41\project_euler_41\obj\Debug\project_euler_41.exe
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_41\project_euler_41\obj\Debug\project_euler_41.pdb

@@ -1,0 +1,9 @@
+c:\users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\bin\Debug\project_euler_19.exe.config
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.csprojResolveAssemblyReference.cache
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.Form1.resources
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.Properties.Resources.resources
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.csproj.GenerateResource.Cache
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\bin\Debug\project_euler_19.exe
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\bin\Debug\project_euler_19.pdb
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.exe
+C:\Users\erikb\documents\visual studio 2015\Projects\project_euler_19\project_euler_19\obj\Debug\project_euler_19.pdb

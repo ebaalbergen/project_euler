@@ -1,0 +1,7 @@
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\bin\Debug\project_euler_24.exe.config
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\bin\Debug\project_euler_24.exe
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\bin\Debug\project_euler_24.pdb
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\obj\Debug\project_euler_24.csprojResolveAssemblyReference.cache
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\obj\Debug\project_euler_24.exe
+B:\git\basic_browser_engine\project_euler_24\project_euler_24\obj\Debug\project_euler_24.pdb

@@ -1,0 +1,6 @@
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\bin\Debug\project_euler_493.exe.config
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\obj\Debug\project_euler_493.csprojResolveAssemblyReference.cache
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\bin\Debug\project_euler_493.exe
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\bin\Debug\project_euler_493.pdb
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\obj\Debug\project_euler_493.exe
+B:\git\basic_browser_engine\project_euler_493\project_euler_493\obj\Debug\project_euler_493.pdb

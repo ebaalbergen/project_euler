@@ -1,0 +1,6 @@
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\bin\Debug\project_euler_34.exe.config
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\bin\Debug\project_euler_34.exe
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\bin\Debug\project_euler_34.pdb
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\obj\Debug\project_euler_34.csprojResolveAssemblyReference.cache
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\obj\Debug\project_euler_34.exe
+C:\Users\erikb\Documents\Visual Studio 2015\Projects\project_euler_34\project_euler_34\obj\Debug\project_euler_34.pdb

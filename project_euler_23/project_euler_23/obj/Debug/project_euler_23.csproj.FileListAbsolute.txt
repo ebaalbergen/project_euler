@@ -1,0 +1,6 @@
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\bin\Debug\project_euler_23.exe.config
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\bin\Debug\project_euler_23.exe
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\bin\Debug\project_euler_23.pdb
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\obj\Debug\project_euler_23.exe
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\obj\Debug\project_euler_23.pdb
+B:\git\basic_browser_engine\project_euler_23\project_euler_23\obj\Debug\project_euler_23.csprojResolveAssemblyReference.cache

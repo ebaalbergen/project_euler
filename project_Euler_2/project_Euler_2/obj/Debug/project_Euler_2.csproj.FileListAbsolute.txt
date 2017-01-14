@@ -1,0 +1,5 @@
+B:\git\basic_browser_engine\project_Euler_2\project_Euler_2\bin\Debug\project_Euler_2.exe.config
+B:\git\basic_browser_engine\project_Euler_2\project_Euler_2\bin\Debug\project_Euler_2.exe
+B:\git\basic_browser_engine\project_Euler_2\project_Euler_2\bin\Debug\project_Euler_2.pdb
+B:\git\basic_browser_engine\project_Euler_2\project_Euler_2\obj\Debug\project_Euler_2.exe
+B:\git\basic_browser_engine\project_Euler_2\project_Euler_2\obj\Debug\project_Euler_2.pdb
